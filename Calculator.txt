@@ -1,15 +1,4 @@
-class Calculator {
-
-
-	
-
-
-
-
-
-
-
- 
+class Calculator { 
 
 	//addition
 	public static int add(int a,int b){
@@ -33,6 +22,13 @@ class Calculator {
 
 
 	}
+
+
+	public static int div(int a,int b)
+	{return a/b;}
+
+
+
 	public static void main(String []args){
 		//basic structure
 }
